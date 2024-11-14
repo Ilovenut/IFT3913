@@ -11,6 +11,10 @@ peuvent influencer la culture des développeurs. En nous appuyant sur des exempl
 la communauté r/ProgrammerHumor et des recherches académiques, nous analyserons l'impact de l'humour sur
 la qualité des tests et la collaboration entre les développeurs.
 
+PP: https://docs.google.com/presentation/d/1nvFJ-KVuHenwVSdnx4oaEmkv3h1C5ohp/edit?usp=sharing&ouid=115841619454625465477&rtpof=true&sd=true
+
+
+
 Reference: 
 https://www.reddit.com/r/ProgrammerHumor/comments/197qxn2/unittestcoverage/ 
 https://www.reddit.com/r/ProgrammerHumor/
